@@ -37,6 +37,7 @@ On first run, Soma creates `.soma/` and writes her own identity based on your wo
 | Repo | Description |
 |------|-------------|
 | [**soma-agent**](https://github.com/meetsoma/soma-agent) | 🧠 The brain — extensions, core modules, protocols |
+| [**core**](https://github.com/meetsoma/core) | ⚙️ Engine — maintained fork of [pi-mono](https://github.com/badlogic/pi-mono) with Soma patches |
 | [**cli**](https://github.com/meetsoma/cli) | 📦 `npx meetsoma` — npm distribution package |
 | [**community**](https://github.com/meetsoma/community) | 🌱 Community protocols, muscles, skills, templates |
 | [**website**](https://github.com/meetsoma/website) | 🌐 [soma.gravicity.ai](https://soma.gravicity.ai) — landing, blog, hub |
@@ -46,7 +47,7 @@ On first run, Soma creates `.soma/` and writes her own identity based on your wo
 
 Browse and install community-contributed protocols, muscles, skills, and templates at **[soma.gravicity.ai/hub](https://soma.gravicity.ai/hub)**.
 
-> 🚧 **Coming soon:** `soma install` CLI command, shareable templates, and AI-powered content screening. See the [roadmap](https://soma.gravicity.ai/roadmap).
+> `/install` is live — install protocols, muscles, and templates from the hub. Shareable templates and AI content screening coming next. See the [roadmap](https://soma.gravicity.ai/roadmap).
 
 <p align="center">
   <a href="https://soma.gravicity.ai">Website</a> · 
