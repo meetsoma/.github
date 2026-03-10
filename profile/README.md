@@ -46,13 +46,13 @@ On first run, Soma creates `.soma/` and writes her own identity based on your wo
 
 Browse and install community-contributed protocols, muscles, skills, and templates at **[soma.gravicity.ai/hub](https://soma.gravicity.ai/hub)**.
 
-> 🚧 **Coming soon:** `soma install` CLI command, shareable templates, and AI-powered content screening. See the [roadmap](https://soma.gravicity.ai/ecosystem).
+> 🚧 **Coming soon:** `soma install` CLI command, shareable templates, and AI-powered content screening. See the [roadmap](https://soma.gravicity.ai/roadmap).
 
 <p align="center">
   <a href="https://soma.gravicity.ai">Website</a> · 
   <a href="https://soma.gravicity.ai/hub">Hub</a> · 
   <a href="https://soma.gravicity.ai/blog">Blog</a> · 
-  <a href="https://soma.gravicity.ai/ecosystem">Ecosystem</a>
+  <a href="https://soma.gravicity.ai/roadmap">Roadmap</a>
 </p>
 
 <p align="center">
