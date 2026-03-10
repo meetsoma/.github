@@ -26,20 +26,31 @@ An AI coding agent with self-growing memory. Every session she learns — patter
 ### Quick Start
 
 ```bash
-npm i -g @gravicity.ai/soma
+npm i -g meetsoma
 soma
 ```
+
+On first run, Soma creates `.soma/` and writes her own identity based on your workspace. Next session, she picks up where she left off.
 
 ### Repositories
 
 | Repo | Description |
 |------|-------------|
-| [**website**](https://github.com/meetsoma/website) | [soma.gravicity.ai](https://soma.gravicity.ai) — landing, blog, docs |
-| [**media**](https://github.com/meetsoma/media) | Brand assets, logos, media kit |
-| [**cli**](https://github.com/meetsoma/cli) | `npx soma` — CLI wrapper |
+| [**soma-agent**](https://github.com/meetsoma/soma-agent) | 🧠 The brain — extensions, core modules, protocols |
+| [**cli**](https://github.com/meetsoma/cli) | 📦 `npx meetsoma` — npm distribution package |
+| [**community**](https://github.com/meetsoma/community) | 🌱 Community protocols, muscles, skills, templates |
+| [**website**](https://github.com/meetsoma/website) | 🌐 [soma.gravicity.ai](https://soma.gravicity.ai) — landing, blog, hub |
+| [**media**](https://github.com/meetsoma/media) | 🎨 Brand assets, logos, media kit |
+
+### Community Hub
+
+Browse and install community-contributed protocols, muscles, skills, and templates at **[soma.gravicity.ai/hub](https://soma.gravicity.ai/hub)**.
+
+> 🚧 **Coming soon:** `soma install` CLI command, shareable templates, and AI-powered content screening. See the [roadmap](https://soma.gravicity.ai/ecosystem).
 
 <p align="center">
   <a href="https://soma.gravicity.ai">Website</a> · 
+  <a href="https://soma.gravicity.ai/hub">Hub</a> · 
   <a href="https://soma.gravicity.ai/blog">Blog</a> · 
   <a href="https://soma.gravicity.ai/ecosystem">Ecosystem</a>
 </p>
