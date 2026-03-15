@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="44" viewBox="0 0 400 44">
+  <defs>
+    <linearGradient id="left" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5282a8" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#7cb2d4" stop-opacity="0.4"/>
+    </linearGradient>
+    <linearGradient id="right" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7cb2d4" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#5282a8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .built { fill: #8b949e; font-size: 11px; letter-spacing: 0.02em; }
+    .powered { fill: #6e7681; font-size: 10px; letter-spacing: 0.03em; }
+    .lines { animation: breathe 4s ease-in-out infinite; }
+    @keyframes breathe {
+      0%, 100% { opacity: 0.4; }
+      50% { opacity: 0.8; }
+    }
+  </style>
+  <text x="200" y="14" text-anchor="middle" class="built">Built by Soma</text>
+  <g class="lines">
+    <rect x="20" y="30" width="140" height="1" rx="0.5" fill="url(#left)"/>
+    <rect x="240" y="30" width="140" height="1" rx="0.5" fill="url(#right)"/>
+  </g>
+  <text x="200" y="34" text-anchor="middle" class="powered">Powered by Gravicity</text>
+</svg>

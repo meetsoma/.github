@@ -170,13 +170,19 @@ Protocols, muscles, skills, templates — created by other users, reviewed and p
   <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/divider-dark.svg" width="400" alt="" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="16" />
+<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="12" />
 
 [soma.gravicity.ai](https://soma.gravicity.ai)
 
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="4" />
+<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="12" />
 
-<sub>Built by [Gravicity](https://gravicity.ai)</sub>
+<a href="https://gravicity.ai">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meetsoma/.github/main/profile/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meetsoma/.github/main/profile/footer-light.svg">
+  <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/footer-dark.svg" width="400" alt="Built by Soma · Powered by Gravicity" />
+</picture>
+</a>
 
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="4" />
 
