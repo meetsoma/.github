@@ -1,10 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="1" viewBox="0 0 400 1">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="2" viewBox="0 0 400 2">
   <defs>
     <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#5282a8" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#5282a8" stop-opacity="0.4"/>
+      <stop offset="50%" stop-color="#7cb2d4" stop-opacity="0.5"/>
       <stop offset="100%" stop-color="#5282a8" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect width="400" height="1" fill="url(#g)"/>
+  <style>
+    rect { animation: breathe 4s ease-in-out infinite; }
+    @keyframes breathe {
+      0%, 100% { opacity: 0.3; }
+      50% { opacity: 0.7; }
+    }
+  </style>
+  <rect width="400" height="2" rx="1" fill="url(#g)"/>
 </svg>

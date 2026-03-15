@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/meetsoma/media/main/svg/soma-logo.svg" width="110" alt="Soma" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meetsoma/media/main/svg/soma-logo-animated.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meetsoma/media/main/svg/soma-logo-animated.svg">
+  <img src="https://raw.githubusercontent.com/meetsoma/media/main/svg/soma-logo-animated.svg" width="120" alt="Soma" />
+</picture>
 
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="12" />
+<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="10" />
 
 ### σῶμα · Soma
 
 *the body that grows*
 
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="8" />
+<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="12" />
 
 ```
 npm i -g meetsoma && soma
@@ -20,7 +24,7 @@ First run, she reads your workspace and writes her own identity.
 <br />
 Second run, she remembers.
 
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="20" />
+<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="24" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meetsoma/.github/main/profile/divider-dark.svg">
@@ -28,19 +32,19 @@ Second run, she remembers.
   <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/divider-dark.svg" width="400" alt="" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="20" />
+<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="24" />
 
 **Session 1** · she creates `.soma/`, scans your repo, writes `identity.md`
 <br />
-you didn't configure anything
+<sub>you didn't configure anything</sub>
 
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="8" />
+<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="12" />
 
 **Session 2** · she loads yesterday's context, knows the PR you were on
 <br />
-remembers you prefer small commits, picks up mid-thought
+<sub>remembers you prefer small commits, picks up mid-thought</sub>
 
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="8" />
+<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="12" />
 
 **Session 47** · she's learned your deploy flow as a muscle
 <br />
@@ -48,9 +52,9 @@ wrote herself a protocol for your test conventions
 <br />
 has scripts she built to catch the mistakes she used to make
 <br />
-you never taught her — she taught herself
+<sub>you never taught her — she taught herself</sub>
 
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="20" />
+<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="24" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meetsoma/.github/main/profile/divider-dark.svg">
@@ -58,7 +62,7 @@ you never taught her — she taught herself
   <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/divider-dark.svg" width="400" alt="" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="20" />
+<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="24" />
 
 The difference between an AI tool and an AI partner is memory.
 
@@ -68,12 +72,12 @@ Not RAG. Not vector search. Not "context window management."
 <br />
 because of what she's lived through with you.
 
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="24" />
+<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="28" />
 
 </div>
 
 <details>
-<summary><samp>&nbsp;&nbsp;◈&nbsp;&nbsp;how it works</samp></summary>
+<summary><kbd>&nbsp;&nbsp;◈&nbsp;&nbsp;how it works&nbsp;&nbsp;</kbd></summary>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="12" />
@@ -102,7 +106,7 @@ Everything is Markdown. You can read it, edit it, delete it. Nothing is hidden.
 </details>
 
 <details>
-<summary><samp>&nbsp;&nbsp;◈&nbsp;&nbsp;AMPS — four layers of memory</samp></summary>
+<summary><kbd>&nbsp;&nbsp;◈&nbsp;&nbsp;AMPS — four layers of memory&nbsp;&nbsp;</kbd></summary>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="12" />
@@ -119,7 +123,7 @@ Everything is Markdown. You can read it, edit it, delete it. Nothing is hidden.
 </details>
 
 <details>
-<summary><samp>&nbsp;&nbsp;◈&nbsp;&nbsp;community hub</samp></summary>
+<summary><kbd>&nbsp;&nbsp;◈&nbsp;&nbsp;community hub&nbsp;&nbsp;</kbd></summary>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="12" />
@@ -136,7 +140,7 @@ Protocols, muscles, skills, templates — created by other users, reviewed and p
 </details>
 
 <details>
-<summary><samp>&nbsp;&nbsp;◈&nbsp;&nbsp;repositories</samp></summary>
+<summary><kbd>&nbsp;&nbsp;◈&nbsp;&nbsp;repositories&nbsp;&nbsp;</kbd></summary>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="12" />
@@ -173,5 +177,7 @@ Protocols, muscles, skills, templates — created by other users, reviewed and p
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="4" />
 
 <sub>Built by [Gravicity](https://gravicity.ai)</sub>
+
+<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="4" />
 
 </div>
