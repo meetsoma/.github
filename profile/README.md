@@ -178,7 +178,7 @@ Install what fits. Fork what almost fits. Share what you've built.
   <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/divider-dark.svg" width="400" alt="" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="28" />
+<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="32" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meetsoma/.github/main/profile/divider-dark.svg">
@@ -186,15 +186,9 @@ Install what fits. Fork what almost fits. Share what you've built.
   <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/divider-dark.svg" width="400" alt="" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="20" />
+<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="24" />
 
-<a href="https://soma.gravicity.ai">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meetsoma/.github/main/profile/footer-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meetsoma/.github/main/profile/footer-light.svg">
-  <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/footer-dark.svg" width="400" alt="Built by Soma · Powered by Gravicity" />
-</picture>
-</a>
+[![Built by Soma · Powered by Gravicity](https://raw.githubusercontent.com/meetsoma/.github/main/profile/footer-dark.svg)](https://soma.gravicity.ai)
 
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="8" />
 
