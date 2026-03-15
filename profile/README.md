@@ -76,12 +76,12 @@ because of what she's lived through with you.
 
 </div>
 
+<div align="center">
+
 <details>
 <summary><kbd>&nbsp;&nbsp;◈&nbsp;&nbsp;how it works&nbsp;&nbsp;</kbd></summary>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="12" />
-</div>
+<br />
 
 Soma's memory lives in `.soma/` — a directory that grows alongside your project.
 
@@ -101,33 +101,39 @@ Soma's memory lives in `.soma/` — a directory that grows alongside your projec
 
 Everything is Markdown. You can read it, edit it, delete it. Nothing is hidden.
 
-**Heat** controls what she remembers. Patterns she uses often stay hot — loaded every session. Patterns she stops using cool off and fade. No configuration. Just use.
+**Heat** controls what she remembers. Patterns she uses often stay hot — loaded every session.
+<br />
+Patterns she stops using cool off and fade. No configuration. Just use.
 
 </details>
 
 <details>
 <summary><kbd>&nbsp;&nbsp;◈&nbsp;&nbsp;AMPS — four layers of memory&nbsp;&nbsp;</kbd></summary>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="12" />
-</div>
+<br />
 
-**Automations** — triggered flows. Session starts, commits land, deploys fire. She runs them without being asked.
+**Automations** — triggered flows. Session starts, commits land, deploys fire.
+<br />
+She runs them without being asked.
 
-**Muscles** — learned patterns. *"How to ship code in this repo."* Crystallized from past sessions. The more she uses one, the hotter it stays.
+**Muscles** — learned patterns. *"How to ship code in this repo."*
+<br />
+Crystallized from past sessions. The more she uses one, the hotter it stays.
 
-**Protocols** — behavioral rules. *"Always run tests before committing."* These shape how she works, not what she knows.
+**Protocols** — behavioral rules. *"Always run tests before committing."*
+<br />
+These shape how she works, not what she knows.
 
-**Scripts** — tools she writes for herself. Health checks, search utilities, verification passes. Built when she notices a recurring need.
+**Scripts** — tools she writes for herself.
+<br />
+Health checks, search utilities, verification passes. Built when she notices a recurring need.
 
 </details>
 
 <details>
 <summary><kbd>&nbsp;&nbsp;◈&nbsp;&nbsp;community hub&nbsp;&nbsp;</kbd></summary>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="12" />
-</div>
+<br />
 
 Browse and install community content at **[soma.gravicity.ai/hub](https://soma.gravicity.ai/hub)**.
 
@@ -135,16 +141,16 @@ Browse and install community content at **[soma.gravicity.ai/hub](https://soma.g
 /install protocol/ship-cycle
 ```
 
-Protocols, muscles, skills, templates — created by other users, reviewed and published. Install what fits. Fork what almost fits. Share what you've built.
+Protocols, muscles, skills, templates — created by other users.
+<br />
+Install what fits. Fork what almost fits. Share what you've built.
 
 </details>
 
 <details>
 <summary><kbd>&nbsp;&nbsp;◈&nbsp;&nbsp;repositories&nbsp;&nbsp;</kbd></summary>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="12" />
-</div>
+<br />
 
 [**soma-agent**](https://github.com/meetsoma/soma-agent) · the brain — extensions, core modules, boot sequence
 
@@ -160,6 +166,8 @@ Protocols, muscles, skills, templates — created by other users, reviewed and p
 
 </details>
 
+</div>
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="16" />
@@ -170,11 +178,7 @@ Protocols, muscles, skills, templates — created by other users, reviewed and p
   <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/divider-dark.svg" width="400" alt="" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="12" />
-
-[soma.gravicity.ai](https://soma.gravicity.ai)
-
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="12" />
+<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="16" />
 
 <a href="https://gravicity.ai">
 <picture>
