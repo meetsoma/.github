@@ -178,9 +178,17 @@ Install what fits. Fork what almost fits. Share what you've built.
   <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/divider-dark.svg" width="400" alt="" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="16" />
+<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="28" />
 
-<a href="https://gravicity.ai">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meetsoma/.github/main/profile/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meetsoma/.github/main/profile/divider-light.svg">
+  <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/divider-dark.svg" width="400" alt="" />
+</picture>
+
+<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="20" />
+
+<a href="https://soma.gravicity.ai">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meetsoma/.github/main/profile/footer-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meetsoma/.github/main/profile/footer-light.svg">
@@ -188,6 +196,6 @@ Install what fits. Fork what almost fits. Share what you've built.
 </picture>
 </a>
 
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="4" />
+<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="8" />
 
 </div>
