@@ -14,9 +14,9 @@
 
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="12" />
 
-```
-npm i -g meetsoma && soma
-```
+**Private Beta** · early access coming soon
+
+[**Request early access →**](https://soma.gravicity.ai/beta)
 
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="4" />
 
@@ -135,34 +135,26 @@ Health checks, search utilities, verification passes. Built when she notices a r
 
 <br />
 
-Browse and install community content at **[soma.gravicity.ai/hub](https://soma.gravicity.ai/hub)**.
+Browse community content at **[soma.gravicity.ai/hub](https://soma.gravicity.ai/hub)**.
 
-```
-/install protocol/ship-cycle
-```
-
-Protocols, muscles, skills, templates — created by other users.
+Protocols, muscles, skills, templates — shared patterns from real workflows.
 <br />
-Install what fits. Fork what almost fits. Share what you've built.
+The hub will open for contributions during beta.
 
 </details>
 
 <details>
-<summary><kbd>&nbsp;&nbsp;◈&nbsp;&nbsp;repositories&nbsp;&nbsp;</kbd></summary>
+<summary><kbd>&nbsp;&nbsp;◈&nbsp;&nbsp;learn more&nbsp;&nbsp;</kbd></summary>
 
 <br />
 
-[**soma-agent**](https://github.com/meetsoma/soma-agent) · the brain — extensions, core modules, boot sequence
+[**Website**](https://soma.gravicity.ai) · docs, blog, roadmap
 
-[**core**](https://github.com/meetsoma/core) · the engine — maintained fork of [pi](https://github.com/badlogic/pi-mono)
+[**Request Beta Access**](https://soma.gravicity.ai/beta) · get early access + contribute
 
-[**cli**](https://github.com/meetsoma/cli) · `npx meetsoma` — the npm package
-
-[**community**](https://github.com/meetsoma/community) · hub content — protocols, muscles, skills, templates
-
-[**website**](https://github.com/meetsoma/website) · [soma.gravicity.ai](https://soma.gravicity.ai) — landing, blog, docs
-
-[**media**](https://github.com/meetsoma/media) · brand assets, logos, media kit
+Soma is source-available. Contributor access to the full codebase
+<br />
+is available on request — [apply here](https://soma.gravicity.ai/beta).
 
 </details>
 
