@@ -142,7 +142,7 @@ Protocols, muscles, skills, templates — shared patterns from real workflows.
 
 BSL 1.1 — source-available. Read it, use it, contribute.
 <br />
-Converts to open source in 2030.
+Converts to open source September 2027.
 
 [**Website**](https://soma.gravicity.ai) · [**Docs**](https://soma.gravicity.ai/docs) · [**Blog**](https://soma.gravicity.ai/blog)
 
@@ -162,7 +162,7 @@ Converts to open source in 2030.
 
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="24" />
 
-<sub>BSL 1.1 © Curtis Mercier — open source 2030</sub>
+<sub>BSL 1.1 © Curtis Mercier — open source 2027</sub>
 
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="8" />
 
