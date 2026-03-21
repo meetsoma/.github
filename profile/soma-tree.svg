@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="260" fill="none">
+  <style>
+    text { font-family: ui-monospace, 'SF Mono', Menlo, monospace; font-size: 13px; }
+    .dir { fill: #8bb9e0; }
+    .file { fill: #c9d1d9; }
+    .desc { fill: #6e7681; }
+  </style>
+  <rect width="440" height="260" rx="8" fill="#161b22" />
+  <text x="20" y="30" class="dir">.soma/</text>
+  <text x="40" y="52" class="file">identity.md</text><text x="220" y="52" class="desc">who it is here</text>
+  <text x="40" y="72" class="file">settings.json</text><text x="220" y="72" class="desc">heat, thresholds</text>
+  <text x="40" y="100" class="dir">amps/</text>
+  <text x="60" y="120" class="file">muscles/</text><text x="220" y="120" class="desc">learned patterns</text>
+  <text x="60" y="140" class="file">protocols/</text><text x="220" y="140" class="desc">behavioral rules</text>
+  <text x="60" y="160" class="file">automations/</text><text x="220" y="160" class="desc">triggered flows</text>
+  <text x="60" y="180" class="file">scripts/</text><text x="220" y="180" class="desc">tools it builds</text>
+  <text x="40" y="208" class="dir">memory/</text>
+  <text x="60" y="228" class="file">sessions/</text><text x="220" y="228" class="desc">what happened</text>
+  <text x="60" y="248" class="file">preloads/</text><text x="220" y="248" class="desc">picks up where it left off</text>
+</svg>

@@ -87,19 +87,7 @@ because of what it's lived through with you.
 
 Soma's memory lives in `.soma/` — a directory that grows alongside your project.
 
-```
-.soma/
-  identity.md        who it is here
-  settings.json      heat levels, thresholds
-  amps/
-    muscles/         learned patterns
-    protocols/       behavioral rules
-    automations/     triggered flows
-    scripts/         tools it builds for itself
-  memory/
-    sessions/        what happened
-    preloads/        picks up where it left off
-```
+<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/soma-tree.svg" width="440" alt=".soma/ directory structure" />
 
 Everything is Markdown. You can read it, edit it, delete it. Nothing is hidden.
 
