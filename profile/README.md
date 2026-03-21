@@ -89,16 +89,16 @@ Soma's memory lives in `.soma/` — a directory that grows alongside your projec
 
 ```
 .soma/
-├── identity.md          ← who it is here
-├── amps/
-│   ├── muscles/         ← learned patterns
-│   ├── protocols/       ← behavioral rules
-│   ├── automations/     ← triggered flows
-│   └── scripts/         ← tools it builds for itself
-├── memory/
-│   ├── sessions/        ← what happened, what was learned
-│   └── preloads/        ← picks up where it left off
-└── settings.json        ← heat levels, thresholds
+  identity.md        who it is here
+  settings.json      heat levels, thresholds
+  amps/
+    muscles/         learned patterns
+    protocols/       behavioral rules
+    automations/     triggered flows
+    scripts/         tools it builds for itself
+  memory/
+    sessions/        what happened
+    preloads/        picks up where it left off
 ```
 
 Everything is Markdown. You can read it, edit it, delete it. Nothing is hidden.
