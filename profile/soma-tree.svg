@@ -1,20 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="260" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="340" fill="none">
   <style>
     text { font-family: ui-monospace, 'SF Mono', Menlo, monospace; font-size: 13px; }
     .dir { fill: #8bb9e0; }
     .file { fill: #c9d1d9; }
     .desc { fill: #6e7681; }
+    .label { fill: #484f58; font-size: 11px; }
   </style>
-  <rect width="440" height="260" rx="8" fill="#161b22" />
-  <text x="20" y="30" class="dir">.soma/</text>
-  <text x="40" y="52" class="file">identity.md</text><text x="220" y="52" class="desc">who it is here</text>
-  <text x="40" y="72" class="file">settings.json</text><text x="220" y="72" class="desc">heat, thresholds</text>
-  <text x="40" y="100" class="dir">amps/</text>
-  <text x="60" y="120" class="file">muscles/</text><text x="220" y="120" class="desc">learned patterns</text>
-  <text x="60" y="140" class="file">protocols/</text><text x="220" y="140" class="desc">behavioral rules</text>
-  <text x="60" y="160" class="file">automations/</text><text x="220" y="160" class="desc">triggered flows</text>
-  <text x="60" y="180" class="file">scripts/</text><text x="220" y="180" class="desc">tools it builds</text>
-  <text x="40" y="208" class="dir">memory/</text>
-  <text x="60" y="228" class="file">sessions/</text><text x="220" y="228" class="desc">what happened</text>
-  <text x="60" y="248" class="file">preloads/</text><text x="220" y="248" class="desc">picks up where it left off</text>
+  <rect width="440" height="340" rx="8" fill="#161b22" />
+  <text x="20" y="28" class="dir">.soma/</text>
+  <text x="40" y="50" class="file">identity.md</text><text x="220" y="50" class="desc">who it is here</text>
+  <text x="40" y="70" class="file">settings.json</text><text x="220" y="70" class="desc">heat, thresholds</text>
+
+  <text x="40" y="98" class="dir">amps/</text><text x="340" y="98" class="label">behaviour</text>
+  <text x="60" y="118" class="file">automations/</text><text x="220" y="118" class="desc">triggered flows</text>
+  <text x="60" y="138" class="file">muscles/</text><text x="220" y="138" class="desc">learned patterns</text>
+  <text x="60" y="158" class="file">protocols/</text><text x="220" y="158" class="desc">behavioral rules</text>
+  <text x="60" y="178" class="file">scripts/</text><text x="220" y="178" class="desc">tools it builds</text>
+
+  <text x="40" y="206" class="dir">memory/</text><text x="340" y="206" class="label">continuity</text>
+  <text x="60" y="226" class="file">sessions/</text><text x="220" y="226" class="desc">what happened</text>
+  <text x="60" y="246" class="file">preloads/</text><text x="220" y="246" class="desc">session handoffs</text>
+
+  <text x="40" y="274" class="dir">projects/</text><text x="340" y="274" class="label">planning</text>
+  <text x="60" y="294" class="file">ideas/</text><text x="220" y="294" class="desc">seeds and kanbans</text>
+
+  <text x="40" y="322" class="dir">skills/</text><text x="340" y="322" class="label">capabilities</text>
 </svg>
