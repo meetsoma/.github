@@ -14,9 +14,9 @@
 
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="12" />
 
-**Private Beta** · early access coming soon
+**Available now** · `npm install -g meetsoma`
 
-[**Request early access →**](https://soma.gravicity.ai/beta)
+[**Get started →**](https://soma.gravicity.ai) · [Docs](https://soma.gravicity.ai/docs) · [Blog](https://soma.gravicity.ai/blog)
 
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="4" />
 
