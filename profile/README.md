@@ -14,15 +14,17 @@
 
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="12" />
 
-**Available now** · `npm install -g meetsoma`
+```bash
+npm install -g meetsoma && soma
+```
 
-[**Get started →**](https://soma.gravicity.ai) · [Docs](https://soma.gravicity.ai/docs) · [Blog](https://soma.gravicity.ai/blog)
+[**Docs**](https://soma.gravicity.ai/docs) · [**Blog**](https://soma.gravicity.ai/blog) · [**Roadmap**](https://soma.gravicity.ai/roadmap)
 
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="4" />
 
-First run, she reads your workspace and writes her own identity.
+First run, it reads your workspace and writes its own identity.
 <br />
-Second run, she remembers.
+Second run, it remembers.
 
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="24" />
 
@@ -34,25 +36,25 @@ Second run, she remembers.
 
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="24" />
 
-**Session 1** · she creates `.soma/`, scans your repo, writes `identity.md`
+**Session 1** · creates `.soma/`, scans your repo, writes `identity.md`
 <br />
 <sub>you didn't configure anything</sub>
 
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="12" />
 
-**Session 2** · she loads yesterday's context, knows the PR you were on
+**Session 2** · loads yesterday's context, knows the PR you were on
 <br />
 <sub>remembers you prefer small commits, picks up mid-thought</sub>
 
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="12" />
 
-**Session 47** · she's learned your deploy flow as a muscle
+**Session 47** · learned your deploy flow as a muscle
 <br />
-wrote herself a protocol for your test conventions
+wrote itself a protocol for your test conventions
 <br />
-has scripts she built to catch the mistakes she used to make
+has scripts it built to catch the mistakes it used to make
 <br />
-<sub>you never taught her — she taught herself</sub>
+<sub>you never taught it — it taught itself</sub>
 
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="24" />
 
@@ -68,9 +70,9 @@ The difference between an AI tool and an AI partner is memory.
 
 Not RAG. Not vector search. Not "context window management."
 
-**Memory.** The kind that changes how she works
+**Memory.** The kind that changes how it works
 <br />
-because of what she's lived through with you.
+because of what it's lived through with you.
 
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="28" />
 
@@ -87,23 +89,23 @@ Soma's memory lives in `.soma/` — a directory that grows alongside your projec
 
 ```
 .soma/
-├── identity.md          ← who she is here
+├── identity.md          ← who it is here
 ├── amps/
 │   ├── muscles/         ← learned patterns
 │   ├── protocols/       ← behavioral rules
 │   ├── automations/     ← triggered flows
-│   └── scripts/         ← tools she builds for herself
+│   └── scripts/         ← tools it builds for itself
 ├── memory/
 │   ├── sessions/        ← what happened, what was learned
-│   └── preloads/        ← picks up where she left off
+│   └── preloads/        ← picks up where it left off
 └── settings.json        ← heat levels, thresholds
 ```
 
 Everything is Markdown. You can read it, edit it, delete it. Nothing is hidden.
 
-**Heat** controls what she remembers. Patterns she uses often stay hot — loaded every session.
+**Heat** controls what it remembers. Patterns it uses often stay hot — loaded every session.
 <br />
-Patterns she stops using cool off and fade. No configuration. Just use.
+Patterns it stops using cool off and fade. No configuration. Just use.
 
 </details>
 
@@ -113,20 +115,18 @@ Patterns she stops using cool off and fade. No configuration. Just use.
 <br />
 
 **Automations** — triggered flows. Session starts, commits land, deploys fire.
-<br />
-She runs them without being asked.
 
 **Muscles** — learned patterns. *"How to ship code in this repo."*
 <br />
-Crystallized from past sessions. The more she uses one, the hotter it stays.
+Crystallized from past sessions. The more it uses one, the hotter it stays.
 
 **Protocols** — behavioral rules. *"Always run tests before committing."*
 <br />
-These shape how she works, not what she knows.
+Shape how it works, not what it knows.
 
-**Scripts** — tools she writes for herself.
+**Scripts** — tools it writes for itself.
 <br />
-Health checks, search utilities, verification passes. Built when she notices a recurring need.
+Health checks, search utilities, verification passes. Built when it notices a recurring need.
 
 </details>
 
@@ -138,23 +138,25 @@ Health checks, search utilities, verification passes. Built when she notices a r
 Browse community content at **[soma.gravicity.ai/hub](https://soma.gravicity.ai/hub)**.
 
 Protocols, muscles, skills, templates — shared patterns from real workflows.
-<br />
-The hub will open for contributions during beta.
+
+```bash
+/install protocol breath-cycle
+/install muscle docker-deploy
+/list remote
+```
 
 </details>
 
 <details>
-<summary><kbd>&nbsp;&nbsp;◈&nbsp;&nbsp;learn more&nbsp;&nbsp;</kbd></summary>
+<summary><kbd>&nbsp;&nbsp;◈&nbsp;&nbsp;source & license&nbsp;&nbsp;</kbd></summary>
 
 <br />
 
-[**Website**](https://soma.gravicity.ai) · docs, blog, roadmap
-
-[**Request Beta Access**](https://soma.gravicity.ai/beta) · get early access + contribute
-
-Soma is source-available. Contributor access to the full codebase
+BSL 1.1 — source-available. Read it, use it, contribute.
 <br />
-is available on request — [apply here](https://soma.gravicity.ai/beta).
+Converts to open source in 2030.
+
+[**Website**](https://soma.gravicity.ai) · [**Docs**](https://soma.gravicity.ai/docs) · [**Blog**](https://soma.gravicity.ai/blog)
 
 </details>
 
@@ -170,17 +172,9 @@ is available on request — [apply here](https://soma.gravicity.ai/beta).
   <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/divider-dark.svg" width="400" alt="" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="32" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meetsoma/.github/main/profile/divider-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meetsoma/.github/main/profile/divider-light.svg">
-  <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/divider-dark.svg" width="400" alt="" />
-</picture>
-
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="24" />
 
-[![Built by Soma · Powered by Gravicity](https://raw.githubusercontent.com/meetsoma/.github/main/profile/footer-dark.svg)](https://soma.gravicity.ai)
+<sub>BSL 1.1 © Curtis Mercier — open source 2030</sub>
 
 <img src="https://raw.githubusercontent.com/meetsoma/.github/main/profile/spacer.png" width="1" height="8" />
 
