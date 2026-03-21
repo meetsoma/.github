@@ -5,9 +5,10 @@
     .file { fill: #c9d1d9; }
     .desc { fill: #6e7681; }
     .label { fill: #484f58; font-size: 11px; }
+    .sigma { fill: #6494be; font-size: 15px; }
   </style>
   <rect width="440" height="340" rx="8" fill="#161b22" />
-  <text x="20" y="28" class="dir">.soma/</text>
+  <text x="20" y="28" class="sigma">σ</text><text x="36" y="28" class="dir">.soma/</text>
   <text x="40" y="50" class="file">identity.md</text><text x="220" y="50" class="desc">who it is here</text>
   <text x="40" y="70" class="file">settings.json</text><text x="220" y="70" class="desc">heat, thresholds</text>
 
